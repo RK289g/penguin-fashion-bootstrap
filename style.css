@@ -1,0 +1,63 @@
+html,
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-h1 {
+    /*font-family: 'Bebas Neue';*/
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+}
+
+.product-h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #363958;
+}
+
+.card-title-h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #363958;
+}
+
+.image-jacket {
+    height: 293px;
+    width: 293px;
+}
+
+.price-h3 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #FABE4C;
+}
+
+.house-image {
+    width: 78px;
+    height: 82px;
+}
+
+.house-card {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    gap: 20px;
+}
+.house-card-wrap{
+    gap: 30px;
+}
